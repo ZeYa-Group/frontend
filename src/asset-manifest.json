@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4277b2ba.css",
+    "main.js": "/static/js/main.83901974.js",
+    "static/media/marketplace.png": "/static/media/marketplace.2ef7662539c143f1bd41.png",
+    "static/media/map.png": "/static/media/map.3cc3a42644ccbd743169.png",
+    "static/media/event.png": "/static/media/event.44d75aaf09aaeb078278.png",
+    "static/media/travel.png": "/static/media/travel.34671ab722b5e91374b8.png",
+    "static/media/beauty.png": "/static/media/beauty.7ab8fd958e989e9b31cf.png",
+    "static/media/diamond.png": "/static/media/diamond.eaad106f6b3836eb3c1b.png",
+    "static/media/sally.png": "/static/media/sally.903f784518b5a77d6ada.png",
+    "static/media/diamond.obj": "/static/media/diamond.221739f0f088ae2c2fee.obj",
+    "static/media/saly.png": "/static/media/saly.69852430717133baa998.png",
+    "static/media/pros.png": "/static/media/pros.dcae99e7a9e76a72ce45.png",
+    "static/media/bubbles.png": "/static/media/bubbles.0c5e49929d0b50a39551.png",
+    "static/media/group.png": "/static/media/group.0e6b2803001095dbc4db.png",
+    "static/media/bag.png": "/static/media/bag.96db3e18c28187ca2c12.png",
+    "static/media/target.png": "/static/media/target.bd2c1d4e83cfb7024f7e.png",
+    "static/media/logo.png": "/static/media/logo.a63e251041a198defff2.png",
+    "static/media/trif.png": "/static/media/trif.a86d32e20ea25356cd10.png",
+    "static/media/money.png": "/static/media/money.eb42bb776e56d3ec425b.png",
+    "static/media/flag.png": "/static/media/flag.b7380df602d2bf965519.png",
+    "static/media/file.png": "/static/media/file.aacf31840915f1a35cae.png",
+    "static/media/email.png": "/static/media/email.0691b87fb58f210e188b.png",
+    "static/media/event_back.png": "/static/media/event_back.85ae5fc94529134e16e7.png",
+    "static/media/billing.png": "/static/media/billing.9572f5af4ec73948f966.png",
+    "static/media/hash.png": "/static/media/hash.fd97d5338f3024495744.png",
+    "static/media/background.png": "/static/media/background.79bf7fe9ca5b47c18bf5.png",
+    "static/media/aqum-2-classic.otf": "/static/media/aqum-2-classic.4e6cc3eca3a8bb1e2aaa.otf",
+    "static/media/vector.png": "/static/media/vector.4eb6d6c30c30f8542859.png",
+    "static/media/logo-text.png": "/static/media/logo-text.13b6740a9a702d6239ff.png",
+    "static/media/tg.svg": "/static/media/tg.a972a5719f0fa1bec6fd019725cb653a.svg",
+    "index.html": "/index.html",
+    "main.4277b2ba.css.map": "/static/css/main.4277b2ba.css.map",
+    "main.83901974.js.map": "/static/js/main.83901974.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4277b2ba.css",
+    "static/js/main.83901974.js"
+  ]
+}
